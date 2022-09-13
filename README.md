@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/><a href="https://github.com/jonjonignacio/">Linux Enthusiast/System Administrator</a>, <a href="https://www.linkedin.com/in/jonjonignacio/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Gabriel! <br/><a href="https://github.com/jonjonignacio/">Linux Enthusiast/System Administrator</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
